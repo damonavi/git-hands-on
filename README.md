@@ -316,7 +316,7 @@ git commit -m "Add feature5"
 git push
 # Note that `git push` Just Works™
 ```
-
+This is my favourite number("pie")
 ## 8. Merging
 
 ```powershell
